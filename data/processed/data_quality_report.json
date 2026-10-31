@@ -1,0 +1,18 @@
+{
+  "pipeline_version": "1.0.0",
+  "processed_timestamp": "2026-10-26T13:29:38.125113Z",
+  "total_raw_records": 1615,
+  "clean_records_retained": 1596,
+  "duplicate_records_removed": 19,
+  "missing_title_dropped": 0,
+  "records_with_salary_disclosed": 1202,
+  "records_with_valid_annual_salary": 1154,
+  "records_missing_salary": 413,
+  "unknown_or_missing_currency": 29,
+  "salary_outliers_flagged": 0,
+  "valid_salary_percentage": 72.31,
+  "unique_roles_count": 20,
+  "unique_locations_count": 7,
+  "unique_skills_count": 51,
+  "target_standardized_currency": "INR"
+}

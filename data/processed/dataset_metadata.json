@@ -1,0 +1,41 @@
+{
+  "dataset_name": "JobScope Curated Tech Market Dataset",
+  "source": "Aggregated Industry Job Postings (Cleaned & Standardized)",
+  "license": "Open Data Commons / CC BY 4.0 for Educational & Portfolio Analytics",
+  "last_updated": "2026-10-26",
+  "total_records": 1596,
+  "roles_covered": [
+    "AI/ML Engineer",
+    "AWS Cloud Engineer",
+    "Backend Developer",
+    "Cloud Engineer",
+    "Cloud Platform Engineer",
+    "Data Engineer",
+    "Data Platform Architect",
+    "Data Scientist",
+    "DevOps Engineer",
+    "Frontend Developer",
+    "Full Stack Developer",
+    "Java Spring Boot Engineer",
+    "MLOps Engineer",
+    "Machine Learning Engineer",
+    "Mobile Developer",
+    "QA / Automation Engineer",
+    "Senior API Engineer",
+    "Senior ML Specialist",
+    "Test Automation Specialist",
+    "UI/UX Developer"
+  ],
+  "locations_covered": [
+    "Bengaluru",
+    "Chennai",
+    "Delhi NCR",
+    "Hyderabad",
+    "Mumbai",
+    "Pune",
+    "Remote"
+  ],
+  "currency_standard": "INR",
+  "is_synthetic_labeled": true,
+  "data_notice": "Demonstration dataset curated for data analytics, salary regression modeling, and skill demand intelligence. Figures reflect processed benchmark data."
+}
